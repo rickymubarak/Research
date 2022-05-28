@@ -20,7 +20,7 @@ def get_data():
 
 def get_dataframe():
     dat = common.get_dataframe('asli.csv',
-                               'https://raw.githubusercontent.com/rickymubarak/Skripsi/master/asli.csv',
+                               'https://raw.githubusercontent.com/rickymubarak/Research/main/data/asli.csv',
                                sep=";")
 
     return dat
