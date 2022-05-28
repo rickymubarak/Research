@@ -31,6 +31,12 @@ Ou pull directly from the GitHub repo:
 pip install -U git+https://github.com/PYFTS/pyFTS
 ```
 
+install untuk penelitian from the GitHub repo:
+
+```
+pip install -U git+https://github.com/rickymubarak/Research.git
+```
+
 ## What are Fuzzy Time Series (FTS)?
 Fuzzy Time Series (FTS) are non parametric methods for time series forecasting based on Fuzzy Theory.  The original method was proposed by [1] and improved later by many researchers. The general approach of the FTS methods, based on [2] is listed below:
 
